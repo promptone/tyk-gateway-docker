@@ -28,7 +28,7 @@
   },
     "proxy": {
         "listen_path": "/api/",
-        "target_url": "http://objectstore.promptone.ai",
+        "target_url": "http://ethereum:3333",
         "strip_listen_path": false
     }
 }
