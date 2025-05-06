@@ -1,5 +1,5 @@
 {
-    "name": "Party Planning API",
+    "name": "Genetic Diseases API",
     "api_id": "keyless",
     "org_id": "default",
     "definition": {
@@ -27,7 +27,7 @@
         ]
   },
     "proxy": {
-        "listen_path": "/api/v1/objects",
+        "listen_path": "/api/v1/diseases",
         "target_url": "http://ethereum:3333",
         "strip_listen_path": false
     }
