@@ -1,4 +1,8 @@
 # Start API Gateway
+
+`./upDown.zsh up` or `./upDown.zsh down`
+
+Starts or stops docker-compose 
 docker-compose up -d
 
 ^c to exit.
